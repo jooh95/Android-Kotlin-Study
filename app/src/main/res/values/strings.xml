@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidKotlinStudy</string>
+    <string name="title_bmi">bmi</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+    <string name="input_empty">input is empty</string>
+    <string name="obese">obese</string>
+    <string name="over_weight">overweight</string>
+    <string name="normal_weight">normal range</string>
+    <string name="under_weight">underweight</string>
+</resources>

@@ -13,4 +13,5 @@
     <string name="over_weight">경도 비만</string>
     <string name="normal_weight">정상체중</string>
     <string name="under_weight">저체중</string>
+    <string name="title_gallery">gallery</string>
 </resources>

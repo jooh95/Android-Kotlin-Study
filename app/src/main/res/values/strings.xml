@@ -12,4 +12,5 @@
     <string name="over_weight">overweight</string>
     <string name="normal_weight">normal range</string>
     <string name="under_weight">underweight</string>
+    <string name="title_gallery">gallery</string>
 </resources>
